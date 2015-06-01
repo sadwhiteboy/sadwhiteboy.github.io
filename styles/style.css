@@ -24,19 +24,20 @@ p, li {
   letter-spacing: 1px;
 }
 
-#bottom {
-  text-align: center;
-  margin: 0;
-  padding: 20px 0;
-}
-
 a {
   text-align: center;
   margin: 0;
-  padding: 20px 0;
-  font-size: 16px;
+  font-size: 20px;
   letter-spacing: 1px;
   line-height: inherit;
+  text-decoration: none;
+}
+
+#bottom {
+  font-size: 16px;
+  text-align: center;
+  margin: 0;
+  padding: 40px 0;
   text-decoration: none;
 }
 
