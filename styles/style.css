@@ -1,0 +1,52 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #FFFFFF
+}
+
+body {
+  width: 600px;
+  margin: auto;
+  background-color: #FFFFFF;
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 35px 0;
+}
+
+p, li {
+  font-size: 20px;
+  line-height: normal;
+  letter-spacing: 1px;
+}
+
+#bottom {
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+}
+
+a {
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
